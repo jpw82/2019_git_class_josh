@@ -5,3 +5,4 @@
 
 - `first edit`: this is my first edit
 - `dif`: looks at differences between commits
+- `checkout`: move your `HEAD` around
