@@ -13,3 +13,14 @@ Git workshop for DCR 2019
 - `push_pull`: this is my first push
 
 ## Remotes
+
+## Branches
+
+`branch <branch_name>`: create a new branch
+`checkout <branch_name>`: move to that branch
+`checkout -b <branch_name>`: create and move to that branch
+`branch -a`: see what branches we have
+`log --oneline --graph --decorate --all`: see whats going on
+
+
+
