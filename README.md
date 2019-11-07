@@ -7,3 +7,5 @@
 - `dif`: looks at differences between commits
 - `checkout`: move your `HEAD` around
 - `push_pull`: this is my first push
+
+## Remotes
